@@ -21,6 +21,7 @@ Please fill in your Slack username, Github username, and skill level:
 | @James  | u2cc  | good  |
 | @[YinFeng](https://intellinvestors.slack.com/archives/D01717DC2LS)  | [ingf](https://github.com/ingf/)  | good  |
 | @egusi                     |     egusi1109      | starting |
+| XXX                     |     YYY      | ZZZ |
 
 
 ## Development Process 开发流程
